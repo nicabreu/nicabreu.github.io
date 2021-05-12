@@ -1,4 +1,4 @@
-.button{
+button{
   color: DarkGoldenRod;
   padding: 10px 25px;
   background-color: transparent;
@@ -8,7 +8,7 @@
   cursor: pointer;
 }
 
-.button:hover {
+button:hover {
   background-color: White;
   color: DarkGoldenRod;
 }
