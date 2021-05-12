@@ -1,14 +1,14 @@
 .btn{
-  color: DarkGoldenRod;
+  color: DodgerBlue;
   padding: 10px 25px;
   background-color: transparent;
-  border: 1px solid DarkGoldenRod;
+  border: 1px solid DodgerBlue;
   border-radius: 20px;
   outline: none;
   cursor: pointer;
 }
 
 .btn:hover {
-  background-color: White;
+  background-color: DodgerBlue;
   color: DarkGoldenRod;
 }
