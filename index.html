@@ -2,7 +2,9 @@
   
   <head>
     <link rel="stylesheet" href="index.css" /> 
+	  <style>
 	  <div class="hero"> </div>
+	</style>
   </head>
   
   <h1 style="text-align:center; color:darkblue; font-size:50px; background-color:powderblue; font-family: Brush Script MT;"> 
@@ -11,7 +13,6 @@
   
   <h2>
    <meta name="viewport" content="width=device-width, initial-scale=1">
-	  
 <style>
 .triangle-right {
 	width: 0;
@@ -65,9 +66,9 @@
           <!--div class="triangle-left" style= "margin-left:auto;margin-right:auto;text-align:left"></div-->
     </p>
     <body>
-	    <form action="results.html" method="GET">
+	    <form action="submit.php" method="POST">
 		    <label>Give us your input!</label> <br>
-		    <input type="text;" name=""/> <br>
+		    <input type="text;" name="" placeholder="suggestion/concern" required /> <br>
 		    <input type="submit" value="Enter" />
 	    </form>
     </body>
