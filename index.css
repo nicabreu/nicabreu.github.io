@@ -16,3 +16,13 @@
   font-weight: bold;
   border: 2px solid Black;
 }
+
+.hero{
+  width:100%;
+  height:100%;
+  background-image: url(https://historycms2.house.gov/assets/25769806856.asset);
+  background-size: cover;
+  background-position: center; 
+  position: relative;
+  overflow: hidden;
+}
