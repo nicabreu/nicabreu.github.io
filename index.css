@@ -81,13 +81,15 @@ nav ul li {
 }
 
 nav ul li:hover {
-	background-color: LightGray;	
+	background-color: LightGray;
+	border-radius: 8px;
+	color: black;
 }
 
 nav ul li a {
 	display: block;
-	font-family: arial;
-	color: black;
+	font-family: Brush Script MT;
+	color: white;
 	font-size:14px;
 	padding: 22px 14px;
 	text-decoration: none;
@@ -112,10 +114,12 @@ nav ul li ul li {
 
 nav ul li ul li a {
 	padding: 8px 14px;
+	color:white;
 }
 
 nav ul li ul li a:hover {
 	background-color: LightGray;
+	color: black;
 }
 borderimg { 
   border: 10px solid transparent;
