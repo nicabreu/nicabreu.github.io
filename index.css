@@ -36,5 +36,7 @@
 }
 
 .Rob_Rule{
-   border: 2px solid white;
+  border: 2px solid white;
+  background-color:LightGray;
+  opacity: 0.32;
 }
