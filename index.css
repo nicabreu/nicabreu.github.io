@@ -26,3 +26,8 @@
   position: relative;
   overflow: hidden;
 }
+
+.background{
+  background-color:lightgrey;
+  opacity: 0.75;
+}
