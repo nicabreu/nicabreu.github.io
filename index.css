@@ -32,6 +32,10 @@
   opacity: 0.69;
 }
 
+.backgrounds{
+  border: 2px solid Black;
+}
+
 .Rob_Rule{
    border: 2px solid Black;
 }
