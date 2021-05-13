@@ -46,4 +46,9 @@
 	border-bottom: 25px solid transparent;
 	
 }
-
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
