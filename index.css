@@ -80,6 +80,10 @@ nav ul li {
 	font-family: Brush Script MT;
 }
 
+nav ul li:hover {
+	background-color: LightGray;	
+}
+
 nav ul li a {
 	display: block;
 	font-family: arial;
@@ -92,9 +96,9 @@ nav ul li a {
 nav ul li ul {
 	display: none;
 	position: absolute;
-	background-color: white;
+	background-color: black;
 	padding: 7px;
-	border-radius: 0px 0px 4px 4px;
+	border-radius: 0px 0px 8px 8px;
 }
 
 nav ul li:hover ul {
