@@ -7,13 +7,13 @@
   outline: white;
   cursor: pointer;
   font-family= fantasy; 
-  font-weight: bold;
+  font-weight: light;
 }
 
 .btn:hover {
   background-color: Transparent;
   color: DarkGoldenRod;
-  font-weight: bold;
+  font-weight: light;
   border: 2px solid Black;
 }
 
